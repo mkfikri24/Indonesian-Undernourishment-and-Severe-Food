@@ -6,12 +6,12 @@ Country Segmentation Analysis of Development and Developed Countries by World De
 ## Overview & Dataset:
 The World Development Indicators (WDI) contain metrics to show the development performance of a country in years. This WDI statistical data is very useful to know the reason why a country is said to be developed or still a developing country.
 The World Development Indicator includes the following sectors, namely:
-  Health
-  Education
-  Environment
-  Infrastructure
-  Economics and Finance
-  Social
+  1. Health
+  2. Education
+  3. Environment
+  4. Infrastructure
+  5. Economics and Finance
+  6. Social
 
 ## Objective:
 Focuses on the Indonesian Severe Food and Undernourishment Population, utilizing the analysis of data from the World Development Indicators (WDI) specifically related to the healthcare sector between 2015 and 2019. The objective of this project is to examine the prevalence of severe food insecurity and undernourishment in Indonesia during this time period and gain insights into the challenges faced by the population in accessing adequate nutrition.
